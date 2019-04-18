@@ -1,0 +1,11 @@
+C:\Users\c64wo\workspace\csharp\practice\DictionaryOfWords\bin\Debug\netcoreapp2.2\DictionaryOfWords.deps.json
+C:\Users\c64wo\workspace\csharp\practice\DictionaryOfWords\bin\Debug\netcoreapp2.2\DictionaryOfWords.runtimeconfig.json
+C:\Users\c64wo\workspace\csharp\practice\DictionaryOfWords\bin\Debug\netcoreapp2.2\DictionaryOfWords.runtimeconfig.dev.json
+C:\Users\c64wo\workspace\csharp\practice\DictionaryOfWords\bin\Debug\netcoreapp2.2\DictionaryOfWords.dll
+C:\Users\c64wo\workspace\csharp\practice\DictionaryOfWords\bin\Debug\netcoreapp2.2\DictionaryOfWords.pdb
+C:\Users\c64wo\workspace\csharp\practice\DictionaryOfWords\obj\Debug\netcoreapp2.2\DictionaryOfWords.csprojAssemblyReference.cache
+C:\Users\c64wo\workspace\csharp\practice\DictionaryOfWords\obj\Debug\netcoreapp2.2\DictionaryOfWords.csproj.CoreCompileInputs.cache
+C:\Users\c64wo\workspace\csharp\practice\DictionaryOfWords\obj\Debug\netcoreapp2.2\DictionaryOfWords.AssemblyInfoInputs.cache
+C:\Users\c64wo\workspace\csharp\practice\DictionaryOfWords\obj\Debug\netcoreapp2.2\DictionaryOfWords.AssemblyInfo.cs
+C:\Users\c64wo\workspace\csharp\practice\DictionaryOfWords\obj\Debug\netcoreapp2.2\DictionaryOfWords.dll
+C:\Users\c64wo\workspace\csharp\practice\DictionaryOfWords\obj\Debug\netcoreapp2.2\DictionaryOfWords.pdb
